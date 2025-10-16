@@ -46,8 +46,7 @@
 
 <br/>
 
-<h2 align="center">💡 Most Used Languages</h2>
-
+<h3 align="center">💡 Most Used Languages</h3>
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalsminski&layout=pie&size_weight=0.5&count_weight=0.5"
@@ -56,20 +55,8 @@
   />
 </p>
 
-<h2 align="center"> Official Links 🌐 </h2>
-
+<h3 align="center">🌐 Email Me </h3>
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://pl.linkedin.com/in/michał-simiński-7b3436173" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="LinkedIn" width="60" style="margin: 0 30px;" />
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/michalsminski" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="60" style="margin: 0 30px;" />
-  </a>
-
-  <!-- Outlook -->
   <a href="mailto:michalsminski@outlook.com" target="_blank">
     <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/outlook.png" alt="Outlook" width="60" style="margin: 0 30px;" />
   </a>
