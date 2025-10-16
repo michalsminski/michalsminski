@@ -50,7 +50,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzhoman&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=michalsminski&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Top Languages"
     width="400px"
   />
