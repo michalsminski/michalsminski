@@ -1,12 +1,13 @@
-<img width="245" height="18" alt="image" src="https://github.com/user-attachments/assets/13040cf2-7f34-472d-90ff-95ec7d71b01c" /><img width="404" height="18" alt="image" src="https://github.com/user-attachments/assets/6e3598f5-da1d-41d6-b4a6-f4cdbd17f9b4" /><img width="129" height="27" alt="image" src="https://github.com/user-attachments/assets/1fe510e9-3a26-42ae-a671-cd6021698b24" /><div align="center">
-  <img 
+<div align="center">
+<img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFAA&background=00000000&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B+I'm+Michal+Siminski;React+%2F+Angular+%2F+Next.js+%2F+TypeScript+Specialist;Passionate+Web+Developer+%F0%9F%9A%80" 
     alt="Typing SVG" 
     style="max-width: 100%;"
   />
 </div>
-<br>
-<br>
+
+<br/>
+
 <h3 align="center">🛠️ Skills & Tools</h3>
 
 <div align="center">
