@@ -71,7 +71,7 @@
 
   <!-- Outlook -->
   <a href="mailto:michalsminski@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/microsoftoutlook.svg" alt="Outlook" width="60" style="margin: 0 30px;" />
+    <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/outlook.png" alt="Outlook" width="60" style="margin: 0 30px;" />
   </a>
 </p>
 
