@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFAA&background=00000000&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B+I'm+Michal+Siminski;React+%2F+Angular+%2F+Next.js+%2F+TypeScript+%2F+Python+%2F+Node.js;Passionate+Web+Developer+%F0%9F%9A%80" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=090088&background=00000000&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B+I'm+Michal+Siminski;React+%2F+Angular+%2F+Next.js+%2F+TypeScript+%2F+Python+%2F+Node.js;Passionate+Web+Developer+%F0%9F%9A%80" 
     alt="Typing SVG" 
     style="max-width: 100%;"
   />
