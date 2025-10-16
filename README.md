@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFAA&background=00000000&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B+I'm+Michal+Siminski;React+%2F+Angular+%2F+Next.js+%2F+TypeScript+Specialist;Passionate+Web+Developer+%F0%9F%9A%80" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FFAA&background=00000000&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B+I'm+Michal+Siminski;React+%2F+Angular+%2F+Next.js+%2F+TypeScript;Passionate+Web+Developer+%F0%9F%9A%80" 
     alt="Typing SVG" 
     style="max-width: 100%;"
   />
@@ -21,7 +21,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="48" title="Javascript"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="48" title="TypeScript"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" width="48" title="Python"/>
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI-Dark.svg" width="48" title="FastAPI"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="48" title="Node.js"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="48" title="TailwindCSS"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GraphQL-Dark.svg" width="48" title="GraphQL"/>
@@ -72,7 +71,7 @@
 
   <!-- Outlook -->
   <a href="mailto:michalsminski@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Outlook-Dark.svg" alt="Outlook" width="60" style="margin: 0 30px;" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/microsoftoutlook.svg" alt="Outlook" width="60" style="margin: 0 30px;" />
   </a>
 </p>
 
